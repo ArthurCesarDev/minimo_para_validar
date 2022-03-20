@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 public class minimo_para_validar {
 
-	
-	
-
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
@@ -24,7 +21,7 @@ public class minimo_para_validar {
 			if (nome.length() >=3) {
 				infoValida = true;
 			} else {
-				System.out.println("Nome precisa no mÌnimo 3 caracteres.");
+				System.out.println("Nome precisa no m√≠nimo 3 caracteres.");
 			}
 		} while (!infoValida);
 		
@@ -46,7 +43,7 @@ public class minimo_para_validar {
 		infoValida = false;
 		                            // verifica se o salario//
 		do {
-			System.out.println("Entre com sal·rio:");
+			System.out.println("Entre com sal√°rio:");
 			
 			salario = scan.nextDouble();
 			 
@@ -57,7 +54,7 @@ public class minimo_para_validar {
 			}
 		} while (!infoValida);
 		
-		System.out.println("Seguinte informaÁ„o foram validadas!");
+		System.out.println("Seguinte informa√ß√£o foram validadas!");
 		
 		System.out.println("Nome:" +  nome);
 		System.out.println("idade:" +  idade);
