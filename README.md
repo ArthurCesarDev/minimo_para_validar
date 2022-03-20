@@ -1,4 +1,4 @@
-# minimo_para_validar
+# validação
 
 
 Algoritimo básico em Java.
