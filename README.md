@@ -3,7 +3,7 @@
 
 Algoritimo básico em Java.
 
-Projeto que ler o nome,idade,salario e que precisar te requesitos minimos!<br /> 
+Projeto que ler o nome, idade, salario e que precisar te requesitos minimos!<br /> 
 
 Requesito Minimos!<br /> 
 
