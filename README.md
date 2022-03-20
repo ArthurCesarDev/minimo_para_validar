@@ -1,0 +1,1 @@
+# minimo_para_validar
